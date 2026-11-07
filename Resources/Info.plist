@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key><string>Murmury</string>
+    <key>CFBundleDisplayName</key><string>Murmury</string>
+    <key>CFBundleIdentifier</key><string>dev.murmury.app</string>
+    <key>CFBundleExecutable</key><string>Murmury</string>
+    <key>CFBundleIconFile</key><string>AppIcon</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>0.1.0</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>LSMinimumSystemVersion</key><string>14.0</string>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSPrincipalClass</key><string>NSApplication</string>
+    <key>LSApplicationCategoryType</key><string>public.app-category.developer-tools</string>
+    <key>NSBluetoothAlwaysUsageDescription</key>
+    <string>Murmury connects to your Galaxy Buds3 Pro over Bluetooth to read their head-tracking sensor.</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Murmury uses the camera once, during calibration, to learn how your earbuds sit on your head. Nothing is recorded or leaves your Mac.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Murmury can transcribe your speech from the microphone to compare against the motion model.</string>
+    <key>NSSpeechRecognitionUsageDescription</key>
+    <string>Murmury transcribes microphone audio on-device as a reference for the motion model.</string>
+</dict>
+</plist>

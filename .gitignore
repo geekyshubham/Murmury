@@ -1,0 +1,19 @@
+# Build output
+.build/
+build/
+.swiftpm/
+*.iconset/
+dist/
+
+# Local research: third-party clones and decompiled vendor code (not redistributable)
+research/decompiled/
+research/GalaxyBudsClient/
+research/subvox/
+
+# Working files
+llm-council/
+brag-output/
+.impeccable/
+__pycache__/
+*.pyc
+.DS_Store
