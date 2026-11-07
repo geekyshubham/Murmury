@@ -22,7 +22,7 @@ no cloud.
 
 ## Demo
 
-<video src="https://github.com/geekyshubham/Murmury/raw/main/docs/media/murmury-demo.mp4" poster="docs/media/poster.jpg" controls muted playsinline width="100%"></video>
+https://github.com/user-attachments/assets/270fe3fa-4f0d-42f4-aeac-4b0255f5fd72
 
 <p align="center"><sub>Video not playing? <a href="docs/media/murmury-demo.mp4">Watch the 22-second demo (MP4)</a>.</sub></p>
 
